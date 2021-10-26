@@ -232,6 +232,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ee39191a9c509348a346c5ff853491b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftArrow: {fileID: 0}
+  rightArrow: {fileID: 197920657}
+  upArrow: {fileID: 0}
+  downArrow: {fileID: 0}
+  spriteRender: {fileID: 197920658}
+  whiteSprite:
+  - {fileID: 21300000, guid: 1f9d983382b47b749991ef3354a2da57, type: 3}
+  - {fileID: 21300000, guid: 1f9d983382b47b749991ef3354a2da57, type: 3}
+  - {fileID: 21300000, guid: 245ba9382bf7f20418f82e6d9062b933, type: 3}
+  - {fileID: 21300000, guid: 1f9d983382b47b749991ef3354a2da57, type: 3}
+  blackSprite:
+  - {fileID: 21300000, guid: 1f9d983382b47b749991ef3354a2da57, type: 3}
+  - {fileID: 21300000, guid: 1f9d983382b47b749991ef3354a2da57, type: 3}
+  - {fileID: 21300000, guid: 1f9d983382b47b749991ef3354a2da57, type: 3}
+  - {fileID: 21300000, guid: 1f9d983382b47b749991ef3354a2da57, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -424,6 +439,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ee39191a9c509348a346c5ff853491b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftArrow: {fileID: 0}
+  rightArrow: {fileID: 0}
+  upArrow: {fileID: 0}
+  downArrow: {fileID: 725182684}
+  spriteRender: {fileID: 725182685}
+  whiteSprite:
+  - {fileID: 21300000, guid: 491b872ec5d03be40bcf28cba2f45578, type: 3}
+  - {fileID: 21300000, guid: fe45a871dc9323b41a649935e86ecec1, type: 3}
+  - {fileID: 21300000, guid: fe45a871dc9323b41a649935e86ecec1, type: 3}
+  - {fileID: 21300000, guid: fe45a871dc9323b41a649935e86ecec1, type: 3}
+  blackSprite:
+  - {fileID: 21300000, guid: fe45a871dc9323b41a649935e86ecec1, type: 3}
+  - {fileID: 21300000, guid: fe45a871dc9323b41a649935e86ecec1, type: 3}
+  - {fileID: 21300000, guid: fe45a871dc9323b41a649935e86ecec1, type: 3}
+  - {fileID: 21300000, guid: fe45a871dc9323b41a649935e86ecec1, type: 3}
 --- !u!1 &938344540
 GameObject:
   m_ObjectHideFlags: 0
@@ -576,6 +606,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ee39191a9c509348a346c5ff853491b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftArrow: {fileID: 0}
+  rightArrow: {fileID: 0}
+  upArrow: {fileID: 1003922411}
+  downArrow: {fileID: 0}
+  spriteRender: {fileID: 1003922412}
+  whiteSprite:
+  - {fileID: 21300000, guid: b8ff5bbe62b0a3d44a84d0073eb76e08, type: 3}
+  - {fileID: 21300000, guid: b8ff5bbe62b0a3d44a84d0073eb76e08, type: 3}
+  - {fileID: 21300000, guid: b8ff5bbe62b0a3d44a84d0073eb76e08, type: 3}
+  - {fileID: 21300000, guid: ab99be10bcc42f94ca41374bb44abe20, type: 3}
+  blackSprite:
+  - {fileID: 21300000, guid: b8ff5bbe62b0a3d44a84d0073eb76e08, type: 3}
+  - {fileID: 21300000, guid: b8ff5bbe62b0a3d44a84d0073eb76e08, type: 3}
+  - {fileID: 21300000, guid: b8ff5bbe62b0a3d44a84d0073eb76e08, type: 3}
+  - {fileID: 21300000, guid: b8ff5bbe62b0a3d44a84d0073eb76e08, type: 3}
 --- !u!1 &1705330634
 GameObject:
   m_ObjectHideFlags: 0
@@ -767,3 +812,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ee39191a9c509348a346c5ff853491b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftArrow: {fileID: 2010908278}
+  rightArrow: {fileID: 0}
+  upArrow: {fileID: 0}
+  downArrow: {fileID: 0}
+  spriteRender: {fileID: 2010908279}
+  whiteSprite:
+  - {fileID: 21300000, guid: 0bcbc705b2556b44ebff8b9cc4a87d66, type: 3}
+  - {fileID: 21300000, guid: 0ab87c54e16ee2745850cf470805776e, type: 3}
+  - {fileID: 21300000, guid: 0bcbc705b2556b44ebff8b9cc4a87d66, type: 3}
+  - {fileID: 21300000, guid: 0bcbc705b2556b44ebff8b9cc4a87d66, type: 3}
+  blackSprite:
+  - {fileID: 21300000, guid: 0bcbc705b2556b44ebff8b9cc4a87d66, type: 3}
+  - {fileID: 21300000, guid: 0bcbc705b2556b44ebff8b9cc4a87d66, type: 3}
+  - {fileID: 21300000, guid: 0bcbc705b2556b44ebff8b9cc4a87d66, type: 3}
+  - {fileID: 21300000, guid: 0bcbc705b2556b44ebff8b9cc4a87d66, type: 3}
